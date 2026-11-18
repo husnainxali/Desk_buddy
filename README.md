@@ -16,9 +16,9 @@ Atleast one relavant screenshot of the program
 
      <img src="Render/db2.png">
      
-    <img src="Render/db#3.png">
+    <img src="Render/db3.png">
     
-    <img src="Render/db#4.PNG">
+    <img src="Render/db4.PNG">
 
 - *Schematic*
 
