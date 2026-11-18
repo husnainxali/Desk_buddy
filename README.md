@@ -1,6 +1,6 @@
-<img width="4032" height="2183" alt="image" src="https://github.com/user-attachments/assets/5eca90bd-27b0-4d87-bcde-c22dc6705c06" /># Desk_buddy
+# Desk_buddy
 A desk companion that you can place on your desk, which displays the time, starts timers, and provides room temperature and weather forecasts through voice commands.
-<img src="Render/db#1.png">
+<img src="Render/db1.png">
 
 ## Description
 
