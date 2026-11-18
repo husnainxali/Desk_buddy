@@ -14,7 +14,7 @@ Atleast one relavant screenshot of the program
 
 - *Case*
 
-     <img src="Render/db#2.png">
+     <img src="Render/db2.png">
      
     <img src="Render/db#3.png">
     
