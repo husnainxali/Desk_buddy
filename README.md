@@ -1,6 +1,6 @@
 # Desk_buddy
 A desk companion that you can place on your desk, which displays the time, starts timers, and provides room temperature and weather forecasts through voice commands.
-<img src="">
+<img src="Render/db#1.png">
 
 ## Description
 
@@ -8,7 +8,20 @@ An in-depth paragraph about your project and overview of use.
 
 ### Screenshots
 Atleast one relavant screenshot of the program
+- *PCB*
+  <img src="Render/3dpcbfr.png">
+  <img src="Render/3dpcbbk.png">
 
+- *Case*
+
+     <img src="">
+    <img src="">
+    <img src="">
+
+- *Schematic*
+
+    <embed src="file.pdf" type="application/pdf" width="600" height="500">
+ 
 ## Getting Started
 
 ### Dependencies
