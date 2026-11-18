@@ -14,13 +14,13 @@ Atleast one relavant screenshot of the program
 
 - *Case*
 
-     <img src="">
-    <img src="">
-    <img src="">
+     <img src="Render/db#2.png">
+    <img src="Render/db#3.png">
+    <img src="Render/db#4.PNG">
 
 - *Schematic*
 
-    <embed src="file.pdf" type="application/pdf" width="600" height="500">
+    <embed src="Render/Schematics.pdf" type="application/pdf" width="600" height="500">
  
 ## Getting Started
 
