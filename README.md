@@ -20,7 +20,8 @@ Atleast one relavant screenshot of the program
     <img src="Render/db3.png" width="600">
 
 -*Explode View* 
-    <img src="Render/db4.PNG" width="600">
+
+   <img src="Render/db4.PNG" width="600">
 
 - *Schematic*
  
