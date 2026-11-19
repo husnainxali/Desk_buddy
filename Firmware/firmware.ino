@@ -1,11 +1,12 @@
 #include <WiFi.h>
-#include <HTTPClient.h>
-#include <ArduinoJson.h>
-#include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
-#include <DHT.h>
-#include <time.h>
+#include<WiFiClientSecure.h>
+#include<HTTPClient.h>
+#include<ArduinoJson.h>
+#include<Wire.h>
+#include<Adafruit_GFX.h>
+#include<Adafruit_SSD1306.h>
+#include<DHT.h>
+#include<time.h>
 
 const char* Wifi_Name = "Your_wifi_Name";
 
@@ -18,7 +19,8 @@ const long GMT_offset_sec = 5 * 3600;
 const int Daylight_offset_sec = 0;
 
 #define Screen_width 128
-
+#define Sda_pin 21
+#define Scl_pin 20
 #define Screen_height 64
 #define Oled_address 0x3C
 #define Oled_reset -1
@@ -70,12 +72,12 @@ void drawCentered(const char* text, int y, int size) {
   uint16_t width, height;
   oled.getTextBounds(text, 0, 0, &x1, &y1, &width, &height);
 
-  oled.setCursor((SCREEN_WIDTH - width) / 2, y);
+  oled.setCursor((Screen_width - width) / 2, y);
   oled.print(text);
 }
 
 void connectWiFi() {
-  WiFi.begin(WIFI_SSID, Wifi_password);
+  WiFi.begin(Wifi_Name, Wifi_password);
 
   while (WiFi.status() != WL_connected) {
     delay(500);
@@ -310,7 +312,7 @@ void loop() {
 
   updateTimer();
 
-  bool timerMode = digitalRead(MODE_SWITCH) == LOW;
+  bool timerMode = digitalRead(Mode_switch) == LOW;
 
   static bool lastStart = HIGH;
   static bool lastPause = HIGH;
