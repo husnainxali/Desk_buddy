@@ -1,19 +1,15 @@
-Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($)
-ESP32-C3 SuperMini,Main board: ESP32-C3 with WiFi and USB-C,1,3.50,3.50,TODO: paste the link of the exact product you chose,3.50
-"1.3 inch OLED display (SH1106, I2C)","128x64 screen for clock, weather, timer and answers",1,4.50,4.50,TODO: paste the link of the exact product you chose,8.00
-DHT11 sensor module,Room temperature and humidity (3-pin module),1,1.50,1.50,TODO: paste the link of the exact product you chose,9.50
-INMP441 I2S microphone module (round),Microphone for voice questions,1,3.50,3.50,TODO: paste the link of the exact product you chose,13.00
-MAX98357A I2S amplifier module,Drives the speaker from the I2S audio signal,1,3.50,3.50,TODO: paste the link of the exact product you chose,16.50
-Speaker 40mm 4 ohm 3W,Plays alarm beeps and spoken answers,1,1.50,1.50,TODO: paste the link of the exact product you chose,18.00
-6x6mm tactile push buttons (pack of 10),3 used: screen / timer / ask. Pack size is the minimum order,1,1.20,1.20,TODO: paste the link of the exact product you chose,19.20
-SPDT slide switch (2.54mm pin spacing),Cuts power to the microphone (SW1). Must match the PCB footprint,1,1.50,1.50,TODO: paste the link of the exact product you chose,20.70
-220uF electrolytic capacitor (pack of 10),Smooths the amplifier supply. 1 used,1,1.00,1.00,TODO: paste the link of the exact product you chose,21.70
-2.54mm male pin header strip (breakaway),Header pins on the PCB for the modules,1,1.00,1.00,TODO: paste the link of the exact product you chose,22.70
-2.54mm female pin socket strip,Sockets so the ESP32 and modules can be removed,2,1.00,2.00,TODO: paste the link of the exact product you chose,24.70
-"Dupont jumper wires, female-to-female, 20cm (pack of 10)","Connects OLED, microphone and speaker to the PCB",1,1.50,1.50,TODO: paste the link of the exact product you chose,26.20
-M2.5 screws and nuts assortment,Holds the PCB and the case together,1,3.00,3.00,TODO: paste the link of the exact product you chose,29.20
-"PLA filament, about 100 g used",3D-printed enclosure,1,2.50,2.50,TODO: paste the link of the exact product you chose,31.70
-"Custom PCB, 5 pcs minimum (JLCPCB or similar)",The desk buddy circuit board,1,2.00,2.00,TODO: paste the link of the exact product you chose,33.70
-PCB shipping (estimate),Shipping for the PCB order. Check at checkout,1,15.00,15.00,TODO: paste the link of the exact product you chose,48.70
-USB-C cable,Power and programming,1,2.00,2.00,TODO: paste the link of the exact product you chose,50.70
-Adhesive foam tape,Seals the speaker against the case grille,1,1.00,1.00,TODO: paste the link of the exact product you chose,51.70
+Item,Description,Quantity,Unit Price ($),Total Price ($)
+ESP32-C3 SuperMini,Main board: ESP32-C3 with WiFi and USB-C,1,3.50,3.50
+"1.3 inch OLED display (SH1106, I2C)","128x64 screen ",1,4.50,4.50
+DHT11 sensor module,Room temperature and humidity (3-pin module),1,1.50,1.50
+INMP441 I2S microphone module (round),Microphone ,1,3.50,3.50
+MAX98357A I2S amplifier module,Drives the speaker from the I2S audio signal,1,3.50,3.50
+Speaker 40mm 4 ohm 3W,Plays alarm beeps and spoken answers,1,1.50,1.50
+6x6mm tactile push buttons (pack of 10),3 used: screen / timer / ask. Pack size is the minimum order,1,1.20,1.20
+SPDT slide switch (2.54mm pin spacing),Cuts power to the microphone (SW1). Must match the PCB footprint,1,1.50,1.50
+220uF electrolytic capacitor (pack of 10),Smooths the amplifier supply. 1 used,1,1.00,1.00
+2.54mm male pin header strip (breakaway),Header pins on the PCB for the modules,1,1.00,1.00
+2.54mm female pin socket strip,Sockets so the ESP32 and modules can be removed,2,1.00,2.00
+"Dupont jumper wires, female-to-female, 20cm (pack of 10)","Connects OLED, microphone and speaker to the PCB",1,1.50,1.50
+M2.5 screws,Holds the PCB and the case together,1,3.00,3.00
+"Custom PCB, 5 pcs minimum (JLCPCB or similar)",The desk buddy circuit board,1,2.00,2.00
