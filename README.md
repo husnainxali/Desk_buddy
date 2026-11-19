@@ -42,7 +42,7 @@ Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
   
 ### Dependencies
 
-- *Arduino IDE *
+- *Arduino IDE*
 - *ESP board instalation in Arduino IDE*
 - *USB Cable*
 
@@ -51,9 +51,12 @@ Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 - Open it in Arduino IDE
 
 ### Executing program
--*Connect your ESP board with pc using a USB cable *
--*Select your ESP as the board in Arduino IDE*
--*Click the Upload(arrow) button to flash your Esp board with firmware*
+
+- *Connect your ESP board with pc using a USB cable *
+
+- *Select your ESP as the board in Arduino IDE*
+
+- *Click the Upload(arrow) button to flash your Esp board with firmware*
 
 ## License
 
