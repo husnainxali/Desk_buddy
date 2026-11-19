@@ -5,8 +5,8 @@ DHT11 sensor module,Room temperature and humidity (3-pin module),1,1.50
 INMP441 I2S microphone module (round),Microphone ,1,3.50
 MAX98357A I2S amplifier module,Drives the speaker from the I2S audio signal,1,3.50
 Speaker 40mm 4 ohm 3W,Plays alarm beeps and spoken answers,1,1.50
-6x6mm tactile push buttons (pack of 10),3 used: screen / timer / ask. Pack size is the minimum order,1,1.20
-SPDT slide switch (2.54mm pin spacing),Cuts power to the microphone (SW1). Must match the PCB footprint,1,1.50
+6x6mm tactile push buttons (pack of 10),3 used: screen / timer / ask.,1,1.20
+SPDT slide switch (2.54mm pin spacing),Cuts power to the microphone (SW1).,1,1.50
 "Dupont jumper wires, female-to-female, 20cm (pack of 10)","Connects OLED, microphone and speaker to the PCB",1,1.50
 M2.5 screws,Holds the PCB and the case together,1,3.00
 "Custom PCB",The desk buddy circuit board,1,2.00
