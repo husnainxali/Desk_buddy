@@ -27,7 +27,7 @@ The PCb has Both the microphone and speaker ports in it so if u want to add the 
 
 - *Schematic*
  
-  **[Render/Schematics.pdf](Schematics.pdf)**  
+  **[Schematics.pdf](Render/Schematics.pdf)**  
 
 ## BOM
 
