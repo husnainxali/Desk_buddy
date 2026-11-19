@@ -9,7 +9,7 @@
 
 const char* Wifi_Name = "Your_wifi_Name";
 
-const char* Wifi_Password = "YOUR_WIFI_PASSWORD";
+const char* Wifi_Password = "YOUR_Wifi_Password";
 
 const float Latitude = 31.55;
 const float Longitude = 74.35;
